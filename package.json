@@ -1,0 +1,22 @@
+{
+  "name": "jstutorial",
+  "version": "1.0.0",
+  "description": "test Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoQuocBinh/JSTutorial.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "BinhDQ",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DoQuocBinh/JSTutorial/issues"
+  },
+  "homepage": "https://github.com/DoQuocBinh/JSTutorial#readme"
+}
